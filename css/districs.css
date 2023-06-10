@@ -115,17 +115,17 @@ html, body {
     height: auto; /* Maintain aspect ratio */
   }
 
-.district h1 {
-    padding-top: 10px;
+.district h2 {
+    padding-top: 30px;
     font-weight: 800;
-    font-size: 40px;
-    color: var(--capital-yellow);
+    font-size: 30px;
+    color: #FFF;
 
 }
 
 @media screen and (max-width: 600px) {
-    .district h1 {
-        font-size: 20px;
+    .district h2 {
+        font-size: 15px;
     
     }
 }
